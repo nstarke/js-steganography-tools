@@ -1,0 +1,26 @@
+{
+  "name": "js-stenography-tools",
+  "version": "0.0.1",
+  "description": "Stenography tools for analyzing hidden text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nstarke/js-stenography-tools"
+  },
+  "keywords": [
+    "Stenography",
+    "hidden"
+  ],
+  "author": "Nicholas Starke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nstarke/js-stenography-tools/issues"
+  },
+  "homepage": "https://github.com/nstarke/js-stenography-tools",
+  "dependencies": {
+    "commander": "^2.3.0"
+  }
+}
